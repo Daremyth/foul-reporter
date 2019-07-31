@@ -1,0 +1,5 @@
+source 'http://rubygems.org'
+gem 'sinatra'
+gem 'google-api-client'
+gem 'prawn'
+gem 'prawn-table'
